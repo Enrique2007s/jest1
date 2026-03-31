@@ -1,5 +1,5 @@
-const addition = () => {
-    return 42;
+const addition = (a, b) => {
+    return a + b;
 }
 
 module.exports = addition;
